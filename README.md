@@ -1,5 +1,10 @@
 # Heart Disease Prediction: A Machine Learning Analysis
 
+<div align="center">
+<a target="_blank" href="https://www.kaggle.com/code/jitkumarnaskar/heart-disease-prediction?scriptVersionId=161074008">
+  <img src="https://www.kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"/>
+</a>
+</div>
 
 ## Overview
 
@@ -77,6 +82,14 @@ ML models:
 ### Validation and Testing:
 
 - Models were extensively tested and validated to ensure the accuracy, reliability, and robustness of the heart disease prediction system.
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/71e12091-b8c0-4a15-834e-fbcc2b75e485)
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/be3c71aa-1fb7-411d-acd1-a8bf5dc66825)
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/1510734e-a7cc-46b0-85c2-93169fc1b66e)
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/32722ab8-0e73-4584-abba-d3fcd8003d66)
 
 ### Future Steps:
 

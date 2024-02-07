@@ -79,6 +79,8 @@ ML models:
 
 - SHAP values were employed to enhance the interpretability of the models and provide insights into the factors influencing predictions.
 
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/f972e56c-0642-4af5-b3e4-0d3d7ebca6d8)
+
 ### Validation and Testing:
 
 - Models were extensively tested and validated to ensure the accuracy, reliability, and robustness of the heart disease prediction system.

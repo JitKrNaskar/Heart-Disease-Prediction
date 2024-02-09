@@ -75,12 +75,6 @@ ML models:
 
 - Random Forest's superior performance makes it the preferred choice for heart disease prediction.
 
-### Model Interpretability:
-
-- SHAP values were employed to enhance the interpretability of the models and provide insights into the factors influencing predictions.
-
-![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/f972e56c-0642-4af5-b3e4-0d3d7ebca6d8)
-
 ### Validation and Testing:
 
 - Models were extensively tested and validated to ensure the accuracy, reliability, and robustness of the heart disease prediction system.
@@ -92,6 +86,24 @@ ML models:
 ![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/1510734e-a7cc-46b0-85c2-93169fc1b66e)
 
 ![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/32722ab8-0e73-4584-abba-d3fcd8003d66)
+
+### Confusion Matrix:
+
+- Confusion matrices, coupled with other evaluation metrics, provided a comprehensive assessment of model performance, enhancing confidence in the predictive capabilities of the system.
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/272fbbb0-e77a-47e7-823d-17bde71eaaa1)
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/4149ff88-3519-4a14-b255-a1be737c8a0a)
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/64792fa1-6792-4ab4-9a5b-29961d7c3619)
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/5d522575-4c1d-48d4-8fe7-e62f49c3f8ba)
+
+### Model Interpretability:
+
+- SHAP values were employed to enhance the interpretability of the models and provide insights into the factors influencing predictions.
+
+![image](https://github.com/JitKrNaskar/Heart-Disease-Prediction/assets/86208809/f972e56c-0642-4af5-b3e4-0d3d7ebca6d8)
 
 ### Future Steps:
 

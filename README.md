@@ -47,7 +47,7 @@ Heart disease prediction is addressed through the application of various machine
 - Programming Language: Python
 - ML Libraries: Scikit-learn, SHAP
 - Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-- Metrics: Accuracy Score, Precision, Recall, F1 Score, SHAP values
+- Metrics: Accuracy Score, Precision, Recall, F1 Score, SHAP values, Confusion Matrix
 - Tools: GridSearchCV
 - Visualization: Seaborn, Matplotlib, SHAP
 

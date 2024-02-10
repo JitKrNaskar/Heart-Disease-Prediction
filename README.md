@@ -1,7 +1,7 @@
 # Heart Disease Prediction: A Machine Learning Analysis
 
 <div align="center">
-<a target="_blank" href="https://www.kaggle.com/code/jitkumarnaskar/heart-disease-prediction?scriptVersionId=161074008">
+<a target="_blank" href="https://www.kaggle.com/code/jitkumarnaskar/heart-disease-prediction">
   <img src="https://www.kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"/>
 </a>
 </div>

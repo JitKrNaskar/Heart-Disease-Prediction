@@ -6,6 +6,10 @@
 </a>
 </div>
 
+## Organization
+
+Edunet Foundation | AICTE Internship
+
 ## Overview
 
 This project focuses on predicting heart disease using machine learning algorithms and evaluates their performance on a dataset. The goal is to identify the most effective model for accurate heart disease prediction.
